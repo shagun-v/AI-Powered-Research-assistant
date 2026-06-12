@@ -166,18 +166,4 @@ elif choice == "🤖 Chatbot":
                 st.chat_message("assistant").markdown(answer)
                 st.session_state['messages'].append({"role": "assistant", "content": answer})
 
-# Contact Page
-elif choice == "📧 Contact":
-    st.title("📬 Contact Us")
-    st.markdown("""
-    We'd love to hear from you! Whether you have a question, feedback, or want to contribute, feel free to reach out.
 
-    - **Email:** [developer@example.com](mailto:aianytime07@gmail.com) ✉️
-    - **GitHub:** [Contribute on GitHub](https://github.com/AIAnytime/Document-Buddy-App) 🛠️
-
-    If you'd like to request a feature or report a bug, please open a pull request on our GitHub repository. Your contributions are highly appreciated! 🙌
-    """)
-
-# Footer
-st.markdown("---")
-st.markdown("© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️")
