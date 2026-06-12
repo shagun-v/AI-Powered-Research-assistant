@@ -1,9 +1,9 @@
-# AI-Powered-Research-assistant 🤖
-AI-Powered-Research-assistant Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)
+# Document-Buddy-App 🤖
+Document-Buddy-App Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)
 
-![AI-Powered-Research-assistant](sct.png)
+![Document-Buddy-App](sct.png)
 
-**AI-Powered-Research-assistant** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
+**Document-Buddy-App** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
 
 ## 🛠️ Features
 
@@ -46,8 +46,8 @@ Follow these instructions to set up and run the Document Buddy App on your local
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shagun-v/AI-Powered-Research-assistant.git
-cd AI-Powered-Research-assistant
+git clone https://github.com/shagun-v/Document-Buddy-App.git
+cd Document-Buddy-App
 ```
 
 2. Create a Virtual Environment
