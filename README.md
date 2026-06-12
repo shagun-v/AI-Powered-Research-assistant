@@ -1,7 +1,7 @@
 # AI-Powered-Research-assistant 🤖
 AI-Powered-Research-assistant Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)
 
-![RAG Based LLM AI Chatbot](sct.png)
+![AI-Powered-Research-assistant](sct.png)
 
 **AI-Powered-Research-assistant** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
 
