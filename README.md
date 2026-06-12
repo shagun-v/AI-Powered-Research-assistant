@@ -33,7 +33,6 @@ The Document Buddy App leverages a combination of cutting-edge technologies to d
 
 document_buddy_app/
 ```
-│── logo.png
 ├── new.py
 ├── vectors.py
 ├── chatbot.py
